@@ -25,6 +25,7 @@
 		"views/website.xml",
 		"views/templates.xml",
     ],
+    'images' : ['images/cover.png'],
     'installable': True,
     'auto_install': False,
 }
